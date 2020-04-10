@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 52;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -16,7 +16,7 @@
 		3C0EADF42188D920000577A6 /* BRCrypto.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C0EADEB2188D91F000577A6 /* BRCrypto.framework */; };
 		3C0EADF92188D920000577A6 /* BRCryptoAmountTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C0EADF82188D920000577A6 /* BRCryptoAmountTests.swift */; };
 		3C0EADFB2188D920000577A6 /* BRCryptoVersion.h in Headers */ = {isa = PBXBuildFile; fileRef = 3C0EADED2188D91F000577A6 /* BRCryptoVersion.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3C0EAE022188D930000577A6 /* libCore.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3CAB609B20AF8C5D00810CE4 /* libCore.a */; };
+		3C0EAE022188D930000577A6 /* libCore.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3CAB609B20AF8C5D00810CE4 /* libCore.a */; platformFilter = maccatalyst; };
 		3C0EAE1A2191145A000577A6 /* BRSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C0EAE192191145A000577A6 /* BRSupport.swift */; };
 		3C0FF5332209243B0068A0AE /* libresolv.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 3CEF5FC9220513FC0010A811 /* libresolv.tbd */; };
 		3C115A082354E8810075ACDA /* BRGenericClient.c in Sources */ = {isa = PBXBuildFile; fileRef = 3C115A072354E8810075ACDA /* BRGenericClient.c */; };
